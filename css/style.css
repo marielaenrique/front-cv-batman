@@ -1,0 +1,33 @@
+body {font-family: 'Times New Roman', Times, serif;
+}
+header {background-color: #E5E5E5;
+        text-align: center;
+}
+h1 {background-color: #C4C4C4;
+    color: #005677;
+    font-size: 35px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+h3 {background-color: #C4C4C4;
+    color: #005677;
+    font-size: 20px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+ul li {font-size: 15px;
+}
+span {font-weight: bold;
+}
+.datos {font-style: italic;
+}
+footer {background-color: #005677;
+        color: white;
+        line-height: 37px;
+        text-align: center;
+}
+.phone {font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.icons {vertical-align: text-bottom;}
